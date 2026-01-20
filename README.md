@@ -224,7 +224,7 @@ I am available for:
 - Gameplay and movement mechanics
 
 Discord:
-➡️ YOUR_DISCORD_NAME#0000
+➡️ blackw_26
 
 Please include a brief description of your project when contacting.
 ---
