@@ -15,6 +15,13 @@ without requiring rewrites to existing logic.
 
 ---
 
+# ⚠️ Requires Knit Framework
+
+This system depends on Knit for client-server communication.
+Make sure Knit is installed and set up before use.
+
+---
+
 ## Architecture Overview
 
 The system is split into clear responsibilities:
