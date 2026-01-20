@@ -1,5 +1,7 @@
 # Sprint System – Modular & Event-Driven
 
+
+
 This sprint system is built with scalability, clarity, and production use in mind.
 Rather than being a simple input-to-speed toggle, the system is designed as a decoupled architecture
 where input, state, and behavior are isolated and communicate through signals.
