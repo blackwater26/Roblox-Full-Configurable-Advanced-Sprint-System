@@ -31,6 +31,10 @@ Config.GUI = {
 Config.Bar = {
     SIDE_PADDING = 10,                 -- Left/right padding (pixels)
     TOP_BOTTOM_PADDING = 3,            -- Top/bottom padding (pixels)
+    ANCHOR_POINT = Vector2.new(0, 0.5), -- Body anchor point
+    POSITION_Y = 0.5,                  -- Body Y position (0-1 scale)
+    TRANSPARENCY_HIDDEN = 1,           -- Background transparency when hidden
+    TRANSPARENCY_VISIBLE = 0,          -- Background transparency when visible
 }
 
 --// GUI Element Names

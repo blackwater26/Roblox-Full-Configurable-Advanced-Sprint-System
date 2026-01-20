@@ -27,8 +27,8 @@ local sidePadding = Config.Bar.SIDE_PADDING
 local topBottomPadding = Config.Bar.TOP_BOTTOM_PADDING
 
 --// Initial body setup (runs once)
-SprintBody.AnchorPoint = Vector2.new(0, 0.5)
-SprintBody.Position = UDim2.new(0, sidePadding, 0.5, 0)
+SprintBody.AnchorPoint = Config.Bar.ANCHOR_POINT
+SprintBody.Position = UDim2.new(0, sidePadding, Config.Bar.POSITION_Y, 0)
 
 --// Tween settings
 local tweenInfo = TweenInfo.new(
@@ -58,12 +58,12 @@ end
 
 --// Fade out background
 local function hideGUI()
-	TweenService:Create(Background, tweenInfo, {BackgroundTransparency = 1}):Play()
+	TweenService:Create(Background, tweenInfo, {BackgroundTransparency = Config.Bar.TRANSPARENCY_HIDDEN}):Play()
 end
 
 --// Fade in background
 local function showGUI()
-	TweenService:Create(Background, tweenInfo, {BackgroundTransparency = 0}):Play()
+	TweenService:Create(Background, tweenInfo, {BackgroundTransparency = Config.Bar.TRANSPARENCY_VISIBLE}):Play()
 end
 
 --// Initialize with sprint system reference
