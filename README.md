@@ -107,13 +107,16 @@ ReplicatedStorage
  │ or respawns to ensure a clean state.
  │
  └── InputModuleScript.luau
+```
 
 - ModuleScript
 - Handles input logic (Shift, Ctrl, etc.)
 - Fires sprint-related signals without directly changing speed.
 
+```text
 ReplicatedStorage
 └── ConfigModule.luau
+```
 
 - ModuleScript
 - Centralized configuration file.
@@ -131,9 +134,11 @@ and desynchronization.
 
 Structure:
 
+```text
 ServerScriptService
 └── Sprint System
  └── SprintServer.luau
+```
 
 - Script (RunContext: Server)
 - Listens for sprint requests coming from the client.
@@ -155,9 +160,11 @@ the game.
 
 Structure:
 
+```text
 StarterPlayer
 └── StarterPlayerScripts
  └── main.luau
+```
 
 - LocalScript
 - Acts as the client-side controller.
