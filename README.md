@@ -204,3 +204,5 @@ Why Client-Side?
 - Server-authoritative movement
 - Easy configuration via a single config module
 - Scalable for large or narrative-driven projects
+
+---
