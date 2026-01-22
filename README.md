@@ -15,7 +15,7 @@ without requiring rewrites to existing logic.
 
 ---
 
-## For Easy Setup
+## Quick Setup
 
 heck out this section for a quick start.
 
