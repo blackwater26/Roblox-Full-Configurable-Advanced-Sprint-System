@@ -15,6 +15,13 @@ without requiring rewrites to existing logic.
 
 ---
 
+## For Easy Setup
+
+### Roblox Creator Store Link (Basic GUI Included)
+  https://create.roblox.com/store/asset/122576927894859/AdvancedScriptSystemblackw26
+
+---
+
 # ⚠️ Requires Knit Framework
 
 This system depends on Knit for client-server communication.
