@@ -1,4 +1,4 @@
-# Sprint System – Modular & Event-Driven
+﻿# Sprint System – Modular & Event-Driven
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Lua](https://img.shields.io/badge/Language-Lua-blueviolet.svg)](https://www.lua.org/)
@@ -15,12 +15,9 @@ without requiring rewrites to existing logic.
 
 ---
 
-# Quick Setup (Not Working for now!)
+# Why Github?
 
-heck out this section for a quick start.
-
-### Roblox Creator Store Link (Basic GUI Included):
-  https://create.roblox.com/store/asset/122576927894859/AdvancedScriptSystemblackw26
+I prioritize privacy and data sovereignty. Unlike platforms that require extensive personal identification and KYC (Know Your Customer) procedures, GitHub allows me to share my work while maintaining my digital privacy. I believe that professional software development should be based on code quality and transparency, not on the collection of sensitive personal documents. By using GitHub, I ensure that my tools remain accessible, open-source, and free from unnecessary bureaucratic barriers.
 
 ---
 
@@ -251,10 +248,15 @@ Please include a brief description of your project when contacting.
 
 # 🗺️ Road Map
 
-v1.1.0 -> Adopting 'React' as the primary UI library to ensure scalability.
+v1.0.0 – Initial Release ✅
 
-v1.1.5 -> Integrating listenable audio events for a better user experience and deeper customization.
+v1.1.0 – UI Scalability Update 🚧
+Adopting React as the primary UI library
 
-v1.2.0 -> Adding configurable visual effects and more event-driven triggers.
+v1.1.5 – Audio Feedback Update 🔜
+Listenable audio events & customization
+
+v1.2.0 – Visual Effects Update 🔜
+Configurable VFX & event-driven triggers
 
 ---
