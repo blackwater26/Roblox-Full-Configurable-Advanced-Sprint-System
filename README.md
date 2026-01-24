@@ -15,6 +15,12 @@ without requiring rewrites to existing logic.
 
 ---
 
+# Why Github?
+
+I prioritize privacy and data sovereignty. Unlike platforms that require extensive personal identification and KYC (Know Your Customer) procedures, GitHub allows me to share my work while maintaining my digital privacy. I believe that professional software development should be based on code quality and transparency, not on the collection of sensitive personal documents. By using GitHub, I ensure that my tools remain accessible, open-source, and free from unnecessary bureaucratic barriers.
+
+---
+
 # ⚠️ Requires Knit Framework
 
 This system depends on Knit for client-server communication.
