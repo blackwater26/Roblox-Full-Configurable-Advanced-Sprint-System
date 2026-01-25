@@ -189,6 +189,7 @@ Integrating Mobil Support to our System
 
 ## 📌 Versioning Policy
 
+I use a tailored versioning system to track the evolution of this project clearly.
 
 This project follows a custom versioning logic to reflect the impact and nature of each update:
 
