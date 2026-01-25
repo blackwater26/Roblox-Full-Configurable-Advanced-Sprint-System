@@ -186,3 +186,18 @@ v1.5.0 – Mobil Support Update |
 Integrating Mobil Support to our System
 
 ---
+
+## 📌 Versioning Policy
+
+
+This project follows a custom versioning logic to reflect the impact and nature of each update:
+
+  - 0.0.5 – Minor Tweaks: Small fixes, "rounding off" edges, and minor code refinements.
+
+  - 0.1.0 – Medium Contribution: Significant updates that add new functionality or noticeable improvements.
+
+  - 0.x.0 – Major Impact: Changes that significantly evolve the design or user experience (e.g., moving beyond the initial release design) without altering the core architecture.
+
+  - 1.0.0+ – Core & Architecture: Major milestones, complete system overhauls, or fundamental architectural changes.
+
+---
