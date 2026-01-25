@@ -1,4 +1,4 @@
-﻿﻿# Sprint System – Modular & Event-Driven
+# Sprint System – Modular & Event-Driven
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-blue.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Lua](https://img.shields.io/badge/Language-Lua-blueviolet.svg)](https://www.lua.org/)
@@ -165,10 +165,11 @@ Please include a brief description of your project when contacting.
 
 v1.0.0 – Initial Release
 
+v1.1.0 – UI Scalability Update
+
 ### In Progress 🚧
 
-v1.1.0 – UI Scalability Update |
-Adopting React as the primary UI library
+Break for a day!
 
 ### Upcoming 🔜
 
