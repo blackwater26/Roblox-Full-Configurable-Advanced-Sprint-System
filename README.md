@@ -182,7 +182,7 @@ Event-driven triggers for VFX
 v1.4.0 – UI Customization Update |
 Expanding options of UI Customization
 
-v1.5.0 – Mobil Support Update |
+v1.5.0 – Mobile Support Update |
 Integrating Mobil Support to our System
 
 v1.6.0 – Audio & VFX Update |
