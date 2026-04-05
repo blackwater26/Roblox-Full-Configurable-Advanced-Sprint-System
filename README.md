@@ -91,7 +91,7 @@ is preserved and modifications to the original source files remain open under th
 ---
 
 
-# 🏃 Sprint System – Purpose & Architecture Overview
+#  Sprint System – Purpose & Architecture Overview
 
 This sprint system is designed to be **modular, secure, and scalable**, allowing developers to integrate advanced sprint mechanics into their Roblox games without worrying about exploits or messy code.
 
@@ -197,7 +197,7 @@ Small improvements and Detailed Document Update
 
 ---
 
-## 📌 Versioning Policy
+##  Versioning Policy
 
 I use a tailored versioning system to track the evolution of this project clearly.
 
